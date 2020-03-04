@@ -17,6 +17,7 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency 'bootstrap', '~> 4.3.1'
   s.add_runtime_dependency "actionview-component", '1.4.0'
+  s.add_development_dependency "actionview-component", '1.4.0'
 
   if s.respond_to? :specification_version then
     s.specification_version = 3

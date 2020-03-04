@@ -23,3 +23,9 @@ And restart your web server.
 ## Usage
 
 TODO
+
+## TODO
+
+- Usage instructions
+- Upgrade to latest ViewComponent gem
+- Rails engine to demonstrate component library (in a similar format to the Bootstrap homepage)
