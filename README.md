@@ -4,6 +4,8 @@ A boilerplate set of view components for Bootstrap 4.4 based on [Github's View C
 
 :squirrel: Tested in Production at [Jellyswitch](https://www.jellyswitch.com)
 
+**NOTE** This is an alpha gem and not ready for widespread use yet. Stay tuned!
+
 ## Installation
 
 Add this line to your application's Gemfile:
